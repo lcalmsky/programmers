@@ -42,6 +42,19 @@ public class Solution {
         Assert.assertEquals(2, actual);
     }
 
+    @Test
+    public void ex02() {
+        Solution solution = new Solution();
+        int actual = solution.solution(3, new int[][]{
+                {1, 1, 0},
+                {1, 1, 1},
+                {0, 1, 1}
+        });
+        Assert.assertEquals(1, actual);
+    }
+
+
+
     public int solution(int n, int[][] computers) {
         int answer = 0;
         visited = new boolean[n][n];
