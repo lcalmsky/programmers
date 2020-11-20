@@ -53,8 +53,6 @@ public class Solution {
         Assert.assertEquals(1, actual);
     }
 
-
-
     public int solution(int n, int[][] computers) {
         int answer = 0;
         visited = new boolean[n][n];
