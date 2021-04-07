@@ -1,7 +1,5 @@
 package io.lcalmsky.programmers.체육복;
 
-import java.util.Arrays;
-
 public class Solution {
     public int solution(int n, int[] lost, int[] reserve) {
         int[] all = new int[n];
