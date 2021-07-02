@@ -158,10 +158,10 @@ public class Solution {
 ## 결과
 
 * Solution 1
-[##_Image|kage@cSzot9/btq8HtNZB7P/JYtjuVpvBkTj4z9OhzKik1/img.png|alignCenter|data-origin-width="1898" data-origin-height="766" data-ke-mobilestyle="widthOrigin"|||_##]
+![](https://blog.kakaocdn.net/dn/8lJly/btq8IEabl9G/6RgmS59j75nFkzzuduxR21/img.png)
 
 * Solution 2
-[##_Image|kage@bBi9SQ/btq8IfPfczK/Bq8ebkEymqT5KNbcK3kKj1/img.png|alignCenter|data-origin-width="1916" data-origin-height="770" data-ke-mobilestyle="widthOrigin"|||_##]
+![](https://blog.kakaocdn.net/dn/ealeEb/btq8GPwSDI7/1xHXkWwkqHMoj3eBz20C7K/img.png)
 
 둘 다 제출해봤는데 `Solution 1`이 근소하게 성능이 좋았습니다.
 
